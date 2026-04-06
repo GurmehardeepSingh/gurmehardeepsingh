@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurmehardeep Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **c++,dsa,html,css**
 
 - 📫 How to reach me **sgurmehardeep@gmail.com**
 
